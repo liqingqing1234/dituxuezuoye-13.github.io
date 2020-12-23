@@ -150,6 +150,8 @@ bearing: 0.00
             },
             onChapterEnter: [],
             onChapterExit: [ ]
+        }
+]
 }；
    
        
