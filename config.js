@@ -1,6 +1,6 @@
 var config = {
-    style: 'mapbox://styles/jiaqishi187/ckbp5o8800bd51iqfvnw3wcm2',
-    accessToken: 'pk.eyJ1IjoiamlhcWlzaGkxODciLCJhIjoiY2thdnI5cjRrMGh1bjJ6a3kwY2l2YWM0aiJ9.BOGjg2QBv1lFFcg4e6RYKA',
+    style: 'mapbox://styles/liqingqing1234/ckiu528yh08pt19lcpo06hpeg',
+    accessToken: 'pk.eyJ1IjoibGlxaW5ncWluZzEyMzQiLCJhIjoiY2tqMTgyamk1NHR2ejJ1cWpuN2ZzN3B6eSJ9.hQVxrGNHJJP76F8p7m1Qaw',
     showMarkers: false,
     theme: 'light',
     alignment：'right',
