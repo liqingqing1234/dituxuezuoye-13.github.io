@@ -1,7 +1,7 @@
 var config = {
     style: 'mapbox://styles/liqingqing1234/ckiu528yh08pt19lcpo06hpeg',
     accessToken: 'pk.eyJ1IjoibGlxaW5ncWluZzEyMzQiLCJhIjoiY2tpdGl2NG1kMDg3MzJ6cGZjZGVvcjZ6MyJ9.OEInGlBWa7M0NXd-9WyoiA',
-    showMarkers: false,
+    showMarkers: 地图学第十三小组,
     theme: 'light',
     alignment：'right',
     title: '抗战时期国立中央大学西迁地图',
@@ -47,7 +47,7 @@ bearing: 0.00
             id: '3',
             alignment: 'left',
             title: '芜湖',
-            image: '3.jpg',
+            image: 'timg(2).jpg',
             description: '1937年10月1日，你到了芜湖，在这里你遇见了三名带着同济大学校徽的学生，询问之下得知他们和你一样是前往学校新址的，他们还告诉你，如今东部的大学都陆续地迁往内地了。你听了他们的话，忽然间懂了1935年的那句“华北之大，已经安放不得一张平静的书桌了”，时不时“路过”的敌机、人们日益紧张的表情，让你不禁怀疑“中国之大，又能安放得下一张平静的书桌吗？”。',
             location: {
                center: { lon: 118.35216, lat: 31.33484 },
@@ -77,7 +77,7 @@ bearing: 0.00
             id: '5',
             alignment: 'left',
             title: '汉口',
-            image: '248d989c3be9122962ecbdf8f64c8cd2。jpg',
+            image: '248d989c3be9122962ecbdf8f64c8cd2.jpeg',
             description: '1937年10月8日，你抵达汉口，顺利地联系上了学校联络站，知晓学校将于10月10日统一安排教师生前往重庆。你在联络站不仅看到了往日相识的同学、刚刚收到录取通知书的新生，你不禁热泪盈眶，紧张一路的心终于稍微放松了些。之后你与同学在小茶馆里相聚，你们畅所欲言，谈论一路上各自的见闻，有谈及糗事的欢笑，有离家的悲伤，有对战争的愤慨。你想，这个飘零的国家里不仅有绝望，也有希望，求学亦是求个答案。.',
             location: {
            center: { lon: 114.28471, lat: 30.56670 },
