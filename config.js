@@ -1,5 +1,5 @@
 var config = {
-    style: 'mapbox://styles/liqingqing1234/ckiu528yh08pt19lcpo06hpeg',
+    style: 'mapbox://styles/liqingqing1234/ckjcd6l061kp119qqrd3ubpqu',
     accessToken: 'pk.eyJ1IjoibGlxaW5ncWluZzEyMzQiLCJhIjoiY2tqMTgyamk1NHR2ejJ1cWpuN2ZzN3B6eSJ9.hQVxrGNHJJP76F8p7m1Qaw',
     showMarkers: false,
     theme: 'light',
@@ -46,7 +46,7 @@ var config = {
             id: '3',
             alignment: 'left',
             title: '芜湖',
-            image: './wuhu.jpg',
+            image: './timg(2).jpg',
             description: '1937年10月1日，你到了芜湖，在这里你遇见了三名带着同济大学校徽的学生，询问之下得知他们和你一样是前往学校新址的，他们还告诉你，如今东部的大学都陆续地迁往内地了。你听了他们的话，忽然间懂了1935年的那句“华北之大，已经安放不得一张平静的书桌了”，时不时“路过”的敌机、人们日益紧张的表情，让你不禁怀疑“中国之大，又能安放得下一张平静的书桌吗？”。',
             location: {
                 center: { lon: 118.35216, lat: 31.33484 },
@@ -106,7 +106,7 @@ var config = {
             id: '7',
             alignment: 'left',
             title: '沙坪坝',
-            image: './144045504884197290.jpg',
+            image: './chongqing.jpg',
             description: '1937年12月1日，你到达重庆已经一个多月了，在这一个多月里，不断传来中国一个个城市的失陷，一支支军队的败守：11月11日，上海失陷；11月19日，苏州、嘉兴失陷；11月20日，国民政府迁来重庆；11月26日，南京开战……每一件事都让你痛心不已，但是你也看见了嘉陵江畔松坡林的中大校区仅用42天建成，此时此刻的沙坪坝上中大的校旗飘扬，全校人一个都不落，全校人员一起唱起中大校歌，这些都让你心潮澎湃。',
             location: {
                 center: { lon: 106.44907, lat: 29.54824 },
