@@ -1,5 +1,5 @@
 var config = {
-    style: 'mapbox://styles/liqingqing1234/ckjcd6l061kp119qqrd3ubpqu',
+    style: 'mapbox://styles/liqingqing1234/ckjc964qp5lm61aluf5k1kyqk',
     accessToken: 'pk.eyJ1IjoibGlxaW5ncWluZzEyMzQiLCJhIjoiY2tqMTgyamk1NHR2ejJ1cWpuN2ZzN3B6eSJ9.hQVxrGNHJJP76F8p7m1Qaw',
     showMarkers: false,
     theme: 'light',
@@ -46,7 +46,7 @@ var config = {
             id: '3',
             alignment: 'left',
             title: '芜湖',
-            image: './timg(2).jpg',
+            image: './timg (2).jpg',
             description: '1937年10月1日，你到了芜湖，在这里你遇见了三名带着同济大学校徽的学生，询问之下得知他们和你一样是前往学校新址的，他们还告诉你，如今东部的大学都陆续地迁往内地了。你听了他们的话，忽然间懂了1935年的那句“华北之大，已经安放不得一张平静的书桌了”，时不时“路过”的敌机、人们日益紧张的表情，让你不禁怀疑“中国之大，又能安放得下一张平静的书桌吗？”。',
             location: {
                 center: { lon: 118.35216, lat: 31.33484 },
