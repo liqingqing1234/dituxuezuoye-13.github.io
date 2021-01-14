@@ -4,7 +4,7 @@ var config = {
     showMarkers: false,
     theme: 'light',
     alignment:'right',
-    title: '国立中央大学的西迁 ',
+    title: '抗战时期国立中央大学西迁之路 ',
     subtitle: '',
     byline: '',
     footer: '',
