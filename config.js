@@ -108,10 +108,12 @@ bearing: 0.00
             title: '川东师范学堂 1937年10月30日',
             image: './chuandong.jpg',
             description: '你来到重庆，暂住川东师范学堂。最后中大决定借用重庆大学松林坡作为校址，新建简易临时校舍，只用了四十天，基本建成教师、学生宿舍、图书馆和食堂，并于12月1日准时开学，全体师生共同吟唱中大校歌，校旗飘扬，人心振奋。',
+            location: {
           center: { lon: 106.41560, lat: 29.82283 },
-zoom: 16.00,
-pitch: 0.00,
-bearing: 0.00
+          zoom: 16.00,
+          pitch: 0.00,
+          bearing: 0.00
+            },
             onChapterEnter: [
             ],
             onChapterExit: [
